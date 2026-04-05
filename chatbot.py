@@ -11,7 +11,7 @@ def my_chatbot():
             print("Bot: I'm doing great! What about you?")
 
         elif user_input == "your name":
-            print("Bot: I'm a simple Python chatbot 🤖")
+            print("Bot: I'm a simple Python chatbot")
 
         elif user_input == "bye":
             print("Bot: Goodbye! Have a nice day")
